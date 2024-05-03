@@ -1,0 +1,10 @@
+.products-container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2%;
+    flex-wrap: wrap;
+}
+
+.title h1 {
+    font-size: x-large;
+}

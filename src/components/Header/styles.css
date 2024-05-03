@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+header{
+    background-color: #00ffff;
+    width: 100%;
+    padding: 40px;
+    border-bottom: 3px solid #87ceeb;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+header nav {
+    width: 96px;
+    display:grid;
+    gap: 10px
+}
+
+header nav a {
+    text-decoration: solid;
+    color: #030303;
+    font-size: 16px;
+}

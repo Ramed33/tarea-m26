@@ -1,0 +1,11 @@
+form {
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: #f0ffff;
+}
+
+.form-title {
+    font-size: 19px;
+    font-weight: 600;
+    color: #5f9ea0;
+}
